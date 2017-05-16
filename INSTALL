@@ -1,0 +1,9 @@
+Building Priv
+
+See doc/readme-qt.rst for instructions on building Priv-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Priv.
+
+See doc/build-*.txt for instructions on building privd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Priv.
